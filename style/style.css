@@ -1,0 +1,107 @@
+.logo{
+	padding-top: 30px; 
+	padding-left: 30px;
+}
+.first{
+    padding-top: 23.82px;
+    padding-left: 30px;
+    width: 92px;
+    height: 25px;
+    font-size: 22px;
+    color: #EE4036;
+   
+}
+.second{
+	padding-top: 7.24px; 
+	padding-left: 30px;
+	width: 114px;
+	height: 25px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+.third{
+	padding-top: 7.24px; 
+	padding-left: 30px;
+	width: 103px;
+	height: 25px;
+	font-size: 22px;
+	color:#3D58A6;
+}
+.imgbox{
+	padding-top: 21.13px;
+	padding-left: 30px;
+    width: 1170px;
+    height: 460px; 
+}
+.txtbox{
+	position: absolute;
+	top: 260px;  /*უნდა მეწეროს 225,79 პიქსელი. ???? */
+	left: 60px;
+	font-size: 30px;
+	color: #E6E6E6;
+
+}
+ .cifri{
+ 	font-size: 48px;
+ 	margin-left: 30px;
+ 	margin-top: 36px;
+ 	background-color: #3D58A6;
+ 	width: 56px;
+ 	height: 56px;
+ 	color: #FFFFFF
+ }   
+ .tve{
+ 	font-size: 22px;
+ 	width: 56px;
+ 	height: 25px; 
+ 	color: #3D58A6;
+ 	padding-left: 30px;
+ 	padding-top: 2px;
+
+ }
+ .satauri{
+ 	font-size: 20px;
+ 	padding-top: 18px;
+ 	padding-left: 30px;
+ 	
+ }
+ .img{
+ 	padding-top: 16px;
+ 	padding-left: 30px;
+ 	width: 270px;
+ 	height: 210px;
+ }
+ .text{
+ 	font-size: 16px;
+ 	padding-top: 27px;
+ 	padding-left: 30px;
+ 	width: 1146px;
+ 	height: 360px;
+ }
+ .kontaqti{
+ 	padding-left: 519px;
+ 	padding-top: 145px;
+ 	width: 250px;
+ 	height: 92px;
+ }
+ .satauri3{
+ 	font-size: 20px;
+ 	color: #3D58A6;
+ }
+ .misamarti{
+ 	font-size: 16px;
+ 	padding-top: 27px;
+ 	padding-left: 5px;
+ }
+ .tel{
+ 	font-size: 16px;
+ 	padding-top: 5px;
+ 	padding-left: 41px;
+ }
+.fosta{
+	font-size: 16px;
+	padding-top: 5px;
+	padding-left: 17px;
+
+
+}
